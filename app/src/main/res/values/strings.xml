@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FragmentsLab</string>
+    <string name="title_home">Первый фрагмент</string>
+    <string name="title_dashboard">Второй фрагмент</string>
+    <string name="title_notifications">Третий фрагмент</string>
+    <string name="title_newfrag">Новый фрагмент</string>
+    <string name="menu_home">Первый</string>
+    <string name="menu_dashboard">Второй</string>
+    <string name="menu_notifications">Третий</string>
+    <string name="menu_new">Новый</string>
+    <string name="next">Далее</string>
+    <string name="title_subfragment">Второй новый фрагмент</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="faculty">ФВТ ПГУ</string>
+    <string name="name1">Костиневич А.В.</string>
+    <string name="name2">Андреев Е.Е.</string>
+    <string name="name3">Рузаев Е.А.</string>
+    <string name="group">Группа: 23ВП2</string>
+    <string name="btntext">Изменить цвета</string>
+    <string name="hint">Введите ФИО</string>
+</resources>
