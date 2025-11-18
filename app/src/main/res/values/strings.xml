@@ -14,6 +14,9 @@
     <string name="hello_blank_fragment">Пустой фрагмент</string>
     <string name="faculty">ФВТ ПГУ</string>
     <string name="group">Группа: 23ВП2</string>
+    <string name="name1">Сергей Осин </string>
+    <string name="name2">Сергей Ермаков </string>
+    <string name="name3">Петровский Владислав </string>
     <string name="btntext">Изменить цвета</string>
     <string name="hint">Введите ФИО</string>
 </resources>
